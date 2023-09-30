@@ -1,18 +1,9 @@
-## Getting Started
+# Santander Bootcamp 2023 - Java Collections Exercises
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+## Overview
 
-## Folder Structure
+This repository contains a collection of exercises and challenges proposed by Software Developer Camila Cavalcante as part of the Santander Bootcamp 2023. These exercises are designed to help the practice and reinforce the understanding of Java Collections.
 
-The workspace contains two folders by default, where:
+## Exercises
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+The exercises included in this repository are organized into separate folders, each containing a specific challenge or problem related to Java Collections. You can find detailed instructions and requirements for each exercise in their respective folders. Feel free to explore and attempt these exercises to improve your skills.
