@@ -6,4 +6,4 @@ This repository contains a collection of exercises and challenges proposed by So
 
 ## Exercises
 
-The exercises included in this repository are organized into separate folders, each containing a specific challenge or problem related to Java Collections. You can find detailed instructions and requirements for each exercise in their respective folders. Feel free to explore and attempt these exercises to improve your skills.
+The exercises included in this repository are organized into separate folders, each containing a specific challenge or problem related to Java Collections. You can find detailed instructions and requirements for each exercise in the 'README' file within their respective folders. Please feel free to explore and attempt these exercises to enhance your skills.
