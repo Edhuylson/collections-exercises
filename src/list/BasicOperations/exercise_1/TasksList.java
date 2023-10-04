@@ -1,4 +1,4 @@
-package list.BasicListOperations.exercise_1;
+package list.BasicOperations.exercise_1;
 
 import java.util.ArrayList;
 import java.util.List;
