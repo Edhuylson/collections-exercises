@@ -97,21 +97,4 @@ public class ProductInventory {
 
     }
 
-    public static void main(String[] args) {
-        
-        ProductInventory inventory = new ProductInventory();
-
-        inventory.displayProducts();
-
-        inventory.addProduct(1, "Produto A", 5.5, 1);
-        inventory.addProduct(2, "Produto B", 10, 5);
-        inventory.addProduct(3, "Produto C", 2.5, 4);
-
-        inventory.displayProducts();
-
-        inventory.calculateTotalInventoryValue();
-        inventory.getMostExpensiveProduct();
-        inventory.getCheapestProduct();
-
-    }
 }
